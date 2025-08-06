@@ -131,6 +131,6 @@ footer p{
     font-size: 12px;
 }
 
-a:hover{
-    background-color: red;
+nav a:hover{
+    background: red;
 }
